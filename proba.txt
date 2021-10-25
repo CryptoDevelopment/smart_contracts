@@ -11,7 +11,7 @@ contract learnVariables {
     bool lieDetector = true;
     string errorMessageText = "Error! There has been a mistake :(";
     
-    uint totalValue = chockleteBar * storeOwner;
+    uint totalValue = chockleteBar - storeOwner;
     
     uint gergely
     bool spend;
